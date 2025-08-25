@@ -1,0 +1,25 @@
+{
+  "name": "expense-tracker-",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunalkunal96/expense-tracker-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kunalkunal96/expense-tracker-/issues"
+  },
+  "homepage": "https://github.com/kunalkunal96/expense-tracker-#readme",
+  "description": "",
+  "dependencies": {
+    "@capacitor/android": "^7.4.3",
+    "@capacitor/cli": "^7.4.3",
+    "@capacitor/core": "^7.4.3"
+  }
+}
